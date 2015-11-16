@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1B96236C1B3D008C008CC8C8 /* top_nav_bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B96236B1B3D008C008CC8C8 /* top_nav_bg@2x.png */; };
 		1BB02A291A1C356D00D7F1DE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1BB02A281A1C356D00D7F1DE /* Foundation.framework */; };
 		1BB02A2B1A1C356D00D7F1DE /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1BB02A2A1A1C356D00D7F1DE /* CoreGraphics.framework */; };
 		1BB02A2D1A1C356D00D7F1DE /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1BB02A2C1A1C356D00D7F1DE /* UIKit.framework */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1B96236B1B3D008C008CC8C8 /* top_nav_bg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "top_nav_bg@2x.png"; sourceTree = "<group>"; };
 		1BB02A251A1C356D00D7F1DE /* CollectionView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CollectionView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1BB02A281A1C356D00D7F1DE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		1BB02A2A1A1C356D00D7F1DE /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -139,6 +141,7 @@
 			isa = PBXGroup;
 			children = (
 				1BB02A601A1C3A0000D7F1DE /* mm.png */,
+				1B96236B1B3D008C008CC8C8 /* top_nav_bg@2x.png */,
 				1BB02A301A1C356D00D7F1DE /* CollectionView-Info.plist */,
 				1BB02A311A1C356D00D7F1DE /* InfoPlist.strings */,
 				1BB02A341A1C356D00D7F1DE /* main.m */,
@@ -246,6 +249,7 @@
 				1BB02A331A1C356D00D7F1DE /* InfoPlist.strings in Resources */,
 				1BB02A3C1A1C356D00D7F1DE /* Main.storyboard in Resources */,
 				1BB02A611A1C3A0000D7F1DE /* mm.png in Resources */,
+				1B96236C1B3D008C008CC8C8 /* top_nav_bg@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -473,6 +477,7 @@
 				1BB02A591A1C356D00D7F1DE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1BB02A5A1A1C356D00D7F1DE /* Build configuration list for PBXNativeTarget "CollectionViewTests" */ = {
 			isa = XCConfigurationList;
@@ -481,6 +486,7 @@
 				1BB02A5C1A1C356D00D7F1DE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

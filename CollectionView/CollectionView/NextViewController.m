@@ -28,6 +28,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
 //    self.view.backgroundColor = [UIColor grayColor];
+    [self.navigationController.navigationBar setBackgroundImage:[UIImage imageNamed:@"top_nav_bg"] forBarMetrics:UIBarMetricsDefault];
 }
 
 - (void)didReceiveMemoryWarning

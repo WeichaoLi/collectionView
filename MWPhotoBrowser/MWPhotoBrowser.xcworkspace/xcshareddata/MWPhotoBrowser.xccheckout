@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>631EE198-6638-4A0C-A31D-7645B837BA52</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MWPhotoBrowser</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>457A24CFFA5F5B93E8D7F6D3538C5EA8D8A7695D</key>
+		<string>https://github.com/WeichaoLi/collectionView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MWPhotoBrowser/MWPhotoBrowser.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>457A24CFFA5F5B93E8D7F6D3538C5EA8D8A7695D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/WeichaoLi/collectionView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>457A24CFFA5F5B93E8D7F6D3538C5EA8D8A7695D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>457A24CFFA5F5B93E8D7F6D3538C5EA8D8A7695D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>collectionView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
